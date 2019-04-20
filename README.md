@@ -1,7 +1,7 @@
 # BYT
 Information Systems Integration and Design
 
-contains:
+contains: </br>
 -design patterns </br>
 -bad smells refactoring </br>
 -a calendar project </br>
